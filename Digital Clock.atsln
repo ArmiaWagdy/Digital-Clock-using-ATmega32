@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Digital Clock", "Digital Clock\Digital Clock.cproj", "{DCBE64F9-5E2C-4326-9B34-9BF31494381B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCBE64F9-5E2C-4326-9B34-9BF31494381B}.Debug|AVR.ActiveCfg = Debug|AVR
+		{DCBE64F9-5E2C-4326-9B34-9BF31494381B}.Debug|AVR.Build.0 = Debug|AVR
+		{DCBE64F9-5E2C-4326-9B34-9BF31494381B}.Release|AVR.ActiveCfg = Release|AVR
+		{DCBE64F9-5E2C-4326-9B34-9BF31494381B}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
